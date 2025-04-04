@@ -65,5 +65,5 @@ N_M_MANAGER
   <img src="./assets/images/food.png" alt="로그인"/>
 </p>
 
-## 개발 문서
-[관리자 웹 페이지 화면 정의서](./assets/docs/관리자_웹_페이지_화면_정의서.pdf)
+## 문서
+- [관리자 웹 페이지 화면 정의서](./assets/docs/관리자_웹_페이지_화면_정의서.pdf)
